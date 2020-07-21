@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Manipulation in Healthcare."
+title: "Manipulation in Healthcare"
 date: 2020-07-21
 ---
 
