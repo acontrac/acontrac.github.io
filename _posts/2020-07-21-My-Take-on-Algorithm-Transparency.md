@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My take on algorithm transparency."
+title: "My Take on Algorithm Transparency."
 date: 2020-07-21
 ---
 
