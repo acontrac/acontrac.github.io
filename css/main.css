@@ -14,17 +14,17 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #002db3;
+    color: #4d79ff;
 }
 a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
+    font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 1.5em;
+    font-size: 1.375em;
     line-height: 1.4em;
     color: #333;
 }
@@ -35,7 +35,7 @@ footer {
 
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 1.5em;
+    font-size: 1.25em;
 }
 
 ul.posts li {
