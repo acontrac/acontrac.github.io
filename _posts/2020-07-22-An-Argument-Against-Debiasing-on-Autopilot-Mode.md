@@ -4,7 +4,7 @@ title: "An Argument Against Debiasing on Autopilot Mode"
 date: 2020-07-22
 ---
 
-The example I'll use throughout this post is an applicant screening algorithm used by a financial firm to which a diverse pool of candidates applies. For example, Citigroup uses the Alpha system to assess the qualifications of the many candidates who applied in 2020. Alpha was trained by engineers using the profiles of perhaps 10,000 Citigroup candidate profiles in the last 10 years. Citigroup finds that the 90% of the candidates in 2020 who Alpha deems are capable are Asian males. 
+The example I'll use throughout this post is an applicant screening algorithm used by a financial firm to which a diverse pool of candidates applies. For example, Citigroup uses its "Alpha" system to assess the qualifications of the many candidates who applied in 2020. Alpha was trained by engineers using the profiles of perhaps 10,000 Citigroup candidate profiles in the last 10 years. Citigroup finds that the 90% of the candidates in 2020 who Alpha deems are capable are Asian males. 
 
 This would be concerning to several people, most obviously those females and non-Asian males which Alpha is not representing well enough for Citigroup to claim on its website that it hires a diverse group of people on the floor. We might hear the claim, "Alpha is biased!" And Alpha is biased. Biased algorithms are as ubiquitous as are algorithms. That's the point of discussing challenges on the road to algorithmic fairness! 
 
