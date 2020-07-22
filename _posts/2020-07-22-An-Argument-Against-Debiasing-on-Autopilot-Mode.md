@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "An Argument Against Debiasing on Autopilot Mode"
-date: 2020-07-21
+date: 2020-07-22
 ---
 
 The example I'll use throughout this post is an applicant screening algorithm used by a financial firm to which a diverse pool of candidates applies. For example, Citigroup uses the Alpha system to assess the qualifications of the many candidates who applied in 2020. Alpha was trained by engineers using the profiles of perhaps 10,000 Citigroup candidate profiles in the last 10 years. Citigroup finds that the 90% of the candidates in 2020 who Alpha deems are capable are Asian males. 
